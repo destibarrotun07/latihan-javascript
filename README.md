@@ -1,1 +1,1 @@
-# latihan-javascript
+# tugas-javascript-oop
